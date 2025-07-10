@@ -2,5 +2,9 @@
   "main": "index.js",
   "dependencies": {
     "express": "^5.1.0"
+  },
+
+  "scripts": {
+    "start:dev": "node index.js"
   }
 }
